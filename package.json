@@ -1,0 +1,8 @@
+{
+  "name": "nlw-06",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/limarich/nlw-06.git",
+  "author": "Richard <59461895+limarich@users.noreply.github.com>",
+  "license": "MIT"
+}
